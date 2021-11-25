@@ -1,0 +1,2 @@
+# blogjoongi.github.io
+blog
