@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>부프의 부자프로젝트</title>
+    <link>https://blog.jungjoongi.com/</link>
+    
+    <atom:link href="https://blog.jungjoongi.com/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Sat, 27 Nov 2021 14:20:29 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>부자되기 프로젝트 시작</title>
+      <link>https://blog.jungjoongi.com/2021/11/25/start/</link>
+      <guid>https://blog.jungjoongi.com/2021/11/25/start/</guid>
+      <pubDate>Thu, 25 Nov 2021 13:09:21 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;시작&quot;&gt;&lt;a href=&quot;#시작&quot; class=&quot;headerlink&quot; title=&quot;시작&quot;&gt;&lt;/a&gt;시작&lt;/h2&gt;&lt;p&gt;블로그를 개설했다.&lt;br&gt;이 블로그는 부자를 연구하고 부자가 되기위한 프로젝트이다.&lt;/p&gt;
+&lt;p&gt;나의 닉네임도 부프로 지었다.</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="시작"><a href="#시작" class="headerlink" title="시작"></a>시작</h2><p>블로그를 개설했다.<br>이 블로그는 부자를 연구하고 부자가 되기위한 프로젝트이다.</p><p>나의 닉네임도 부프로 지었다. <strong>부프 : [부자 프로젝트]</strong></p><p>책을 읽고, 부자를 연구하고, 부자의 습관을 배워보려고한다.<br>그리고 그 끝에는 꼭 이루고 원하고 바라는 부자가 될 것이다.</p><h2 id="부자가-되고싶은-이유"><a href="#부자가-되고싶은-이유" class="headerlink" title="부자가 되고싶은 이유?"></a>부자가 되고싶은 이유?</h2><p>시간과 돈에서부터 자유를 얻고싶다.<br>좋든, 싫든, 돈이 없으면 살아갈 수 없는 세상<br>자본주의의 세상에서 노동으로만 살아간다는 것은 세상을 부인하는 것이다.</p><p>누군가는 내가 돈을 밝힌다며 비난을 할까?<br>그렇지만 결국 노동자의 삶을 살아가는 자들이 돈의 노예가 될 것이다.<br>나는 돈의 노예로부터 벗어나고 시간의 노예로부터 벗어날 것이다.</p><p>돈과 시간을 지배하는 삶 그것이 되고싶을 뿐이다.<br>나와 사랑하는 아내, 그리고 아들과 함께 이루고싶은 삶이다.</p><h2 id="목표"><a href="#목표" class="headerlink" title="목표"></a>목표</h2><p>단기적인 목표는 2024년까지(만 3년) 꼭 10억의 자산을 만들 것이다.<br>그리고 장기적으로는 노후의 자본을 꼭 만들어 목표하는 자본력을 이루어 노동의 은퇴를 선언 할 것이다.</p>]]></content:encoded>
+      
+      
+      <category domain="https://blog.jungjoongi.com/categories/%ED%94%84%EB%A1%A4%EB%A1%9C%EA%B7%B8/">프롤로그</category>
+      
+      
+      <category domain="https://blog.jungjoongi.com/tags/%EB%B6%80%ED%94%84/">부프</category>
+      
+      <category domain="https://blog.jungjoongi.com/tags/%ED%94%84%EB%A1%A4%EB%A1%9C%EA%B7%B8/">프롤로그</category>
+      
+      
+      <comments>https://blog.jungjoongi.com/2021/11/25/start/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
