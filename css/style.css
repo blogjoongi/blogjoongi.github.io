@@ -2444,6 +2444,14 @@ article .content .caption {
 #categories .category-list .category-list-item .category-list-count:after {
   content: ")";
 }
+.image-caption {
+  display: block;
+  color: #81929d;
+  text-align: center;
+  font-style: italic;
+  padding-right: 10px;
+  padding-left: 10px;
+}
 .highlight {
   background: #efecf4;
   color: #585260;
